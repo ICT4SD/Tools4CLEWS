@@ -5,6 +5,10 @@ Objective
 -------------
 This project aims to promote the design of software tools for modelling and simulation of scenarios to see the interactions between climate-change, land usage, and water usage overtime to assist policy planners. 
 
+How to get started
+------------------
+If you want to get started working on this topic. Enter the:  
+[#SE4All Unite Ideas Challenge](https://unite.un.org/ideas/content/se4all-sustainable-energy-4-all)
 
 References
 -------------
